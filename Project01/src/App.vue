@@ -2,14 +2,19 @@
 import { RouterView } from 'vue-router'
 </script>
 
-<template>
-  <header>
-  </header>
 
-  <RouterView />
+<template>
+  <!-- <header>
+    <h1>UFC Fighter Rankings</h1>
+  </header> -->
 
   
+
+<!-- сама таблица -->
+<RouterView />
+
 </template>
 
 <style scoped>
+
 </style>
